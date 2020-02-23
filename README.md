@@ -9,4 +9,4 @@ The folder inside the zip contains
 - the jquery library file
 
 The page functionality has been carried out as described. The basket contents persist through refresh by using the session 
-storage, meaning they disappear on closing the browser. The ~yellow~ 'BUY' button logs a basic XML conversion of the basket items'(basket-row) HTML to the console.
+storage, meaning they disappear on closing the browser. The yellow 'BUY' button logs a basic XML conversion of the basket items'(basket-row) HTML to the console.
