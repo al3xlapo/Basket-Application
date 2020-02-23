@@ -1,7 +1,7 @@
 # Basket-Application
 Simple Basket Application
 
-The folder inside the zip contains
+The folder contains
 - the single HTML code file called index.php
 - a styles.css which holds all the CSS of the page
 - operations.js where all the javascript(jQuery has been used) functions and handlers are
